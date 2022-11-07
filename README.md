@@ -20,4 +20,4 @@ Scraping some of the popular github topics (Topics are labels that create subjec
  ### Code work :
  
   * [Notebook](notebook.ipynb).
-  * [Scraped data](scraped_data)
+  * [Scraped data](Scraped_data)
