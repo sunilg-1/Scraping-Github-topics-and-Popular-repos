@@ -1,0 +1,21 @@
+username,repo name,stars count,repo url
+localstack,localstack,43702,https://github.com/localstack/localstack
+harness,drone,25785,https://github.com/harness/drone
+jenkinsci,jenkins,19550,https://github.com/jenkinsci/jenkins
+auchenberg,volkswagen,12506,https://github.com/auchenberg/volkswagen
+theonedev,onedev,9664,https://github.com/theonedev/onedev
+openshift,origin,8201,https://github.com/openshift/origin
+gocd,gocd,6592,https://github.com/gocd/gocd
+concourse,concourse,6563,https://github.com/concourse/concourse
+buildbot,buildbot,4903,https://github.com/buildbot/buildbot
+gaia-pipeline,gaia,4824,https://github.com/gaia-pipeline/gaia
+Strider-CD,strider,4573,https://github.com/Strider-CD/strider
+jenkins-x,jx,4243,https://github.com/jenkins-x/jx
+ovh,cds,3976,https://github.com/ovh/cds
+xcpretty,xcpretty,3777,https://github.com/xcpretty/xcpretty
+hygieia,hygieia,3710,https://github.com/hygieia/hygieia
+iterative,cml,3484,https://github.com/iterative/cml
+cake-build,cake,3391,https://github.com/cake-build/cake
+werf,werf,3327,https://github.com/werf/werf
+JamesIves,github-pages-deploy-action,3213,https://github.com/JamesIves/github-pages-deploy-action
+ligurio,awesome-ci,3003,https://github.com/ligurio/awesome-ci

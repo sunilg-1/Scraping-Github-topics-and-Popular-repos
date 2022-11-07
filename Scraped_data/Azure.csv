@@ -1,0 +1,21 @@
+username,repo name,stars count,repo url
+bregman-arie,devops-exercises,30545,https://github.com/bregman-arie/devops-exercises
+microsoft,recommenders,14102,https://github.com/microsoft/recommenders
+pulumi,pulumi,13788,https://github.com/pulumi/pulumi
+ramitsurana,awesome-kubernetes,13099,https://github.com/ramitsurana/awesome-kubernetes
+Azure,azure-quickstart-templates,12173,https://github.com/Azure/azure-quickstart-templates
+mozilla,sops,10783,https://github.com/mozilla/sops
+caprover,caprover,9293,https://github.com/caprover/caprover
+microsoft,computervision-recipes,8670,https://github.com/microsoft/computervision-recipes
+google,go-cloud,8584,https://github.com/google/go-cloud
+infracost,infracost,7945,https://github.com/infracost/infracost
+microsoft,azuredatastudio,6910,https://github.com/microsoft/azuredatastudio
+node-formidable,formidable,6363,https://github.com/node-formidable/formidable
+midwayjs,midway,6080,https://github.com/midwayjs/midway
+thangchung,clean-code-dotnet,5428,https://github.com/thangchung/clean-code-dotnet
+aquasecurity,tfsec,5095,https://github.com/aquasecurity/tfsec
+budtmo,docker-android,4938,https://github.com/budtmo/docker-android
+bridgecrewio,checkov,4703,https://github.com/bridgecrewio/checkov
+nccgroup,ScoutSuite,4697,https://github.com/nccgroup/ScoutSuite
+cloud-custodian,cloud-custodian,4408,https://github.com/cloud-custodian/cloud-custodian
+Azure,azure-sdk-for-net,3957,https://github.com/Azure/azure-sdk-for-net

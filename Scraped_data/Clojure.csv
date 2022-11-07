@@ -1,0 +1,21 @@
+username,repo name,stars count,repo url
+metabase,metabase,29810,https://github.com/metabase/metabase
+penpot,penpot,17056,https://github.com/penpot/penpot
+logseq,logseq,16865,https://github.com/logseq/logseq
+deeplearning4j,deeplearning4j,12627,https://github.com/deeplearning4j/deeplearning4j
+LightTable,LightTable,11725,https://github.com/LightTable/LightTable
+kanaka,mal,8903,https://github.com/kanaka/mal
+lk-geimfari,awesomo,8592,https://github.com/lk-geimfari/awesomo
+tonsky,datascript,4907,https://github.com/tonsky/datascript
+reagent-project,reagent,4508,https://github.com/reagent-project/reagent
+riemann,riemann,4139,https://github.com/riemann/riemann
+weavejester,compojure,3960,https://github.com/weavejester/compojure
+bbatsov,clojure-style-guide,3859,https://github.com/bbatsov/clojure-style-guide
+izhangzhihao,intellij-rainbow-brackets,3762,https://github.com/izhangzhihao/intellij-rainbow-brackets
+status-im,status-mobile,3518,https://github.com/status-im/status-mobile
+ring-clojure,ring,3496,https://github.com/ring-clojure/ring
+clojure-emacs,cider,3349,https://github.com/clojure-emacs/cider
+viebel,klipse,2972,https://github.com/viebel/klipse
+babashka,babashka,2943,https://github.com/babashka/babashka
+tallesl,Rich-Hickey-fanclub,2884,https://github.com/tallesl/Rich-Hickey-fanclub
+bhauman,lein-figwheel,2880,https://github.com/bhauman/lein-figwheel
